@@ -1,8 +1,10 @@
-# E commerce Bookstore HTML Template
+# eEommerce Bookstore HTML Template
+* Writer - eCommerce Bootstrap Template
 ![Alt Text](https://github.com/hengloem/bookstore-HTML-template/blob/master/default.png)
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+## Installation Guide
+* Please see in Documentation file
+
 ## Contributor
 * hengloem <heng.loem2017@gmail.com>
 
